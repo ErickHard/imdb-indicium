@@ -76,7 +76,7 @@ print("Previsão IMDB:", modelo.predict(novo_filme)[0])
 
 Python 3.9+
 
-Pacotes usados e suas verções listados **requirements.txt**
+Pacotes usados e suas versões listados **requirements.txt**
 ---
 # 📄 **requirements.txt**
 ```txt
